@@ -1,0 +1,17 @@
+{
+  "name": "dexfood-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "git-commit-msg-linter": "^3.1.0",
+    "typescript": "^4.2.3"
+  }
+}
